@@ -1,0 +1,132 @@
+/* 
+
+.navbar{
+
+color:black;
+
+background-color: rgb(239, 85, 85);
+
+text-align: center;
+
+display: flex;
+
+list-style-type:none;
+
+margin:0;
+
+padding:0;
+
+overflow: hidden;
+
+justify-content: space-around;
+
+}
+
+li{
+
+padding:8px;
+
+float: left;
+
+text-align: center;
+
+font-weight: bold;
+
+font-size: 125%;
+
+}
+
+button{
+
+background-color: rgb(239, 85, 85);
+
+margin-left: 10%;
+
+text-align: center;
+
+padding-left: 10%;
+
+padding-right: 10%;
+
+padding-top: 2%;
+
+padding-bottom: 2%;
+}
+
+.coll{
+
+float:left;
+
+}
+body{
+background-image:url("https://www.teahub.io/photos/full/127-1279661_wallpaper-yellow-pink-gradient-linear-light-pink-lemon.jpg")
+}
+.col2{
+
+float:right;
+
+}
+
+.row{
+
+display: flex;
+
+width:100%;
+
+height:100%;
+
+}
+
+h1{
+
+margin-left: 10%;
+
+letter-spacing: 4px;
+
+margin-top: 10%;
+
+font-weight: bold;
+
+}
+
+p{
+
+margin-left: 10%;
+
+font-size: large;
+
+}
+
+img{
+    width:500px;height:500px;
+} */
+.nav {
+    background-color: #f47272;
+    overflow: hidden;
+  }
+  .nav a {
+    float: left;
+    color: #121111;
+    text-align: center;
+    padding: 14px 46px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  .I2{
+    height: 20px;
+    width: 20px;
+  }
+  .column {
+    float: left;
+    width: 47%;
+    padding-top: 5px;
+  }
+  .row-top{
+    float: top;
+
+  }
+  .mid{
+    text-align: center;
+    padding-top: 70px;
+  }
